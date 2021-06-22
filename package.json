@@ -1,0 +1,23 @@
+{
+  "name": "av1aula4",
+  "version": "1.0.0",
+  "description": "Emplementaçao do ex03",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "3",
+    "UML"
+  ],
+  "author": "Max",
+  "license": "ISC",
+  "devDependencies": {
+    "javascript": "^1.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
